@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on netless io.
 - 🤔 I study OS cc linker and IoT.
-- 📫 How to reach me: github.
+- 📫 How to found me: github.
 - ⚡ Favorite: TV game,netflix,book,coding.
